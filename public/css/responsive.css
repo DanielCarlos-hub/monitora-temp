@@ -1,0 +1,530 @@
+
+@media screen and (min-width: 300px) and (min-height: 300px) and (max-width: 575px) and (max-height:896px)
+{
+    /** logo **/
+    .navbar-brand{
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+    .navbar-brand img{
+        width: 210px;
+        height: 68px;
+        padding: 10px;
+        text-align: center;
+    }
+
+    /** Tipografia **/
+
+    h2{
+        font-size: 1.5rem;
+    }
+    p{
+        font-size: .8rem;
+        line-height: 1.5rem;
+    }
+    h5{
+        font-size: 1.15rem;
+    }
+
+    /** Home Page Carousel **/
+    #banners .carousel-item {
+        height: 30vh;
+        min-height: 150px;
+        max-height: 200px;
+        background: no-repeat center center scroll;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+    #banners .carousel-item img{
+        height: 200px;
+    }
+
+    #banners .carousel-caption {
+        bottom: 30px;
+    }
+    #banners .carousel-caption h1{
+        font-size: 14px;
+        padding-top: 10px;
+    }
+    #banners .carousel-caption h3{
+        font-size: 12px;
+        margin-top: 10px !important;
+        margin-bottom: 10px !important;
+    }
+    #banners .carousel-caption .btn {
+        font-size: .50rem;
+        padding: .3rem .8rem;
+    }
+    #banners .carousel-caption hr{
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+    }
+
+    #banners .carousel-inner{
+        height: auto;
+    }
+    #banners .carousel-indicators{
+        bottom: 0;
+    }
+
+    /** segmentos **/
+
+    .content h5{
+        font-size: 10px;
+    }
+    .img-container .content{
+        padding: 3px;
+    }
+    .img-container img{
+        height: 75px;
+    }
+
+    /**footer**/
+
+    footer .container-fluid h6{
+        font-size: .8rem;
+    }
+    footer .container-fluid p{
+        font-size: .75rem;
+        line-height: 1.5rem;
+        margin-bottom: .7rem;
+    }
+    footer .footer-copyright{
+        font-size: .8rem;
+    }
+
+    .empresa-img{
+        height: 250px;
+    }
+
+    #empresa_background{
+        background-color:black !important;
+        background-image: none !important;
+    }
+}
+@media screen and (min-width: 576px) and (max-width: 767px)
+{
+
+    .navbar-brand{
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+    /** logo **/
+    .navbar-brand img{
+        width: 220px;
+        height: 70px;
+        padding: 10px;
+        text-align: center;
+    }
+
+    /** Tipografia **/
+
+    h2{
+        font-size: 1.5rem;
+    }
+    p{
+        font-size: .8rem;
+        line-height: 1.5rem;
+    }
+    h5{
+        font-size: 1.15rem;
+    }
+
+    /** Home Page Carousel **/
+    #banners .carousel-item {
+        height: 50vh;
+        min-height: 150px;
+        max-height: 300px;
+        background: no-repeat center center scroll;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+    #banners .carousel-item img{
+        height: 300px;
+    }
+
+    #banners .carousel-caption {
+        bottom: 60px;
+    }
+    #banners .carousel-caption h1{
+        font-size: 14px;
+        padding-top: 10px;
+    }
+    #banners .carousel-caption h3{
+        font-size: 12px;
+        margin-top: 10px !important;
+        margin-bottom: 10px !important;
+    }
+    #banners .carousel-caption .btn {
+        font-size: .60rem;
+        padding: .35rem .95rem;
+    }
+    #banners .carousel-caption hr{
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+    }
+
+    #banners .carousel-inner{
+        height: auto;
+    }
+    #banners .carousel-indicators{
+        bottom: 0;
+    }
+
+    /** segmentos **/
+
+    .content h5{
+        font-size: 10px;
+    }
+    .img-container .content{
+        padding: 3px;
+    }
+    .img-container img{
+        height: 125px;
+    }
+
+    /**footer**/
+
+    footer .container-fluid h6{
+        font-size: .8rem;
+    }
+    footer .container-fluid p{
+        font-size: .75rem;
+        line-height: 1.5rem;
+        margin-bottom: .7rem;
+    }
+    footer .footer-copyright{
+        font-size: .8rem;
+    }
+
+    .empresa-img{
+        height: 450px;
+    }
+
+    #empresa_background{
+        background-color:black !important;
+        background-image: none !important;
+    }
+}
+@media(min-width: 768px) and (max-width: 991px)
+{
+
+    /** logo **/
+    .navbar-brand{
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+
+    .navbar-brand img{
+        width: 225px;
+        height: 74px;
+        padding: 10px;
+    }
+
+    /** Tipografia **/
+
+    h2{
+        font-size: 1.5rem;
+    }
+    p{
+        font-size: .8rem;
+        line-height: 1.5rem;
+    }
+    h5{
+        font-size: 1.15rem;
+    }
+
+    /** Home Page Carousel **/
+    #banners .carousel-item {
+        height: 60vh;
+        min-height: 250px;
+        max-height: 350px;
+        background: no-repeat center center scroll;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+    #banners .carousel-item img{
+        height: 400px;
+    }
+
+    #banners .carousel-caption {
+        bottom: 80px;
+    }
+    #banners .carousel-caption h1{
+        font-size: 18px;
+        padding-top: 10px;
+    }
+    #banners .carousel-caption h3{
+        font-size: 14px;
+        margin-top: 20px !important;
+        margin-bottom: 20px !important;
+    }
+    #banners .carousel-caption .btn {
+        font-size: .65rem;
+        padding: .35rem .95rem;
+    }
+    #banners .carousel-caption hr{
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+    }
+
+    #banners .carousel-inner{
+        height: auto;
+    }
+    #banners .carousel-indicators{
+        bottom: 0;
+    }
+
+    /** Home Page - Segmentos **/
+    .content h5{
+        font-size: 12px;
+    }
+    .img-container .content{
+        padding: 5px;
+    }
+    .img-container img{
+        height: 125px;
+    }
+
+    /** Footer **/
+    footer .container-fluid h6{
+        font-size: .9rem;
+    }
+    footer .container-fluid p{
+        font-size: .8rem;
+        line-height: 1.5rem;
+        margin-bottom: .9rem;
+    }
+    footer .footer-copyright{
+        font-size: .85rem;
+    }
+    #empresa_background{
+        background-color:black !important;
+        background-image: none !important;
+    }
+}
+@media(min-width: 992px) and (max-width: 1279px)
+{
+
+    /** logo **/
+    .navbar-brand img{
+        width: 225px;
+        height: 74px;
+        padding: 10px;
+    }
+
+    /** Tipografia **/
+
+    h2{
+        font-size: 1.5rem;
+    }
+    p{
+        font-size: .8rem;
+        line-height: 1.5rem;
+    }
+    h5{
+        font-size: 1.15rem;
+    }
+    /** Home Page Carousel **/
+    #banners .carousel-item {
+        height: 70vh;
+        min-height: 250px;
+        max-height: 500px;
+        background: no-repeat center center scroll;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+    #banners .carousel-item img{
+        height: 500px;
+    }
+
+    #banners .carousel-caption {
+        bottom: 150px;
+    }
+    #banners .carousel-caption h1{
+        font-size: 20px;
+        padding-top: 10px;
+    }
+    #banners .carousel-caption h3{
+        font-size: 16px;
+        margin-top: 20px !important;
+        margin-bottom: 20px !important;
+    }
+    #banners .carousel-caption .btn {
+        font-size: .75rem;
+        padding: .4rem 1rem;
+    }
+    #banners .carousel-caption hr{
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+    }
+
+    #banners .carousel-inner{
+        height: auto;
+    }
+    #banners .carousel-indicators{
+        bottom: 50px;
+    }
+
+    /** Home Page - Segmentos **/
+    .content h5{
+        font-size: 12px;
+    }
+    .img-container .content{
+        padding: 3px;
+    }
+    .img-container img{
+        height: 125px;
+    }
+
+    /** Footer **/
+    footer .container-fluid h6{
+        font-size: .9rem;
+    }
+    footer .container-fluid p{
+        font-size: .75rem;
+        line-height: 1.5rem;
+        margin-bottom: .9rem;
+    }
+    footer .footer-copyright{
+        font-size: .85rem;
+    }
+    #empresa_background{
+        background-color:black !important;
+        background-image: none !important;
+    }
+}
+@media(min-width: 1280px) and (max-width: 1376px)
+{
+    /** logo **/
+    .navbar-brand img{
+        width: 245px;
+        height: 75px;
+        padding: 10px;
+    }
+
+    /** Tipografia **/
+
+    h2{
+        font-size: 1.5rem;
+    }
+    p{
+        font-size: .8rem;
+        line-height: 1.5rem;
+    }
+    h5{
+        font-size: 1.15rem;
+    }
+
+    #banners .carousel-item {
+        height: 90vh;
+        min-height: 350px;
+        max-height: 500px;
+        background: no-repeat center center scroll;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+    #banners .carousel-item img{
+        height: 500px;
+    }
+    #banners .carousel-caption {
+        bottom: 200px;
+    }
+
+    #banners .carousel-inner{
+        height: auto;
+    }
+
+    #banners .carousel-indicators{
+        bottom: 20px;
+    }
+
+    .content h5{
+        font-size: 14px;
+    }
+    .img-container .content{
+        padding: 5px;
+    }
+    .img-container img{
+        height: 150px;
+    }
+
+    /** Extra Columns **/
+
+    .col-lg-20 {
+        -ms-flex: 0 0 20%;
+        flex: 0 0 20%;
+        max-width: 20%;
+    }
+    #empresa_background{
+        background-image: linear-gradient( rgba(0, 0, 0, .6), rgb(0, 0, 0, .7)), url('/storage/site/paginas/empresa.jpg');
+        background-size: 1449px 830px;
+    }
+}
+
+@media(min-width: 1377px) and (max-width: 1920px)
+{
+    /** logo **/
+    .navbar-brand img{
+        width: 245px;
+        height: 75px;
+        padding: 10px;
+    }
+
+
+    .content h5{
+        font-size: 1.15rem
+    }
+    .img-container .content{
+        padding: 7px;
+    }
+
+    #banners .carousel-item {
+        height: 120vh;
+        min-height: 350px;
+        max-height: 650px;
+        background: no-repeat center center scroll;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+    #banners .carousel-item img{
+        height: 650px;
+    }
+    #banners .carousel-caption {
+        bottom: 200px;
+    }
+
+    #banners .carousel-inner{
+        height: auto;
+    }
+
+    #banners .carousel-indicators{
+        bottom: 70px;
+    }
+
+    /** Extra Columns **/
+
+    .col-lg-20 {
+        -ms-flex: 0 0 20%;
+        flex: 0 0 20%;
+        max-width: 20%;
+    }
+
+    #empresa_background{
+        background-image: linear-gradient( rgba(0, 0, 0, .6), rgb(0, 0, 0, .7)), url('/storage/site/paginas/empresa.jpg');
+        background-size: 1600px 830px;
+    }
+
+}

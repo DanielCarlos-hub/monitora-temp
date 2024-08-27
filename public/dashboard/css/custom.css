@@ -1,0 +1,130 @@
+#categorias thead th{
+    padding: 5px 9px;
+}
+
+#categorias tbody td{
+    font-size: 12px;
+    padding: 5px 9px;
+}
+
+
+#posts thead th{
+    padding: 5px 9px;
+}
+
+#posts tbody td{
+    font-size: 12px;
+    padding: 5px 9px;
+}
+
+
+#paginas thead th{
+    padding: 5px 9px;
+}
+
+#paginas tbody td{
+    font-size: 12px;
+    padding: 5px 9px;
+}
+
+#sections thead th{
+    padding: 5px 9px;
+}
+
+#sections tbody td{
+    font-size: 12px;
+    padding: 5px 9px;
+}
+
+#produtos thead th{
+    padding: 5px 9px;
+}
+
+#produtos tbody td{
+    font-size: 14px;
+    padding: 5px 9px;
+}
+
+#usuarios thead th{
+    padding: 5px 9px;
+}
+
+#usuarios tbody td{
+    font-size: 13px;
+    padding: 5px 9px;
+}
+
+#clientes thead th{
+    padding: 5px 9px;
+}
+
+#clientes tbody td{
+    font-size: 13px;
+    padding: 5px 9px;
+}
+
+#temperaturas thead th{
+    padding: 5px 9px;
+}
+
+#temperaturas tbody td{
+    font-size: 13px;
+    padding: 5px 9px;
+}
+
+
+/** Modal Styles - HELP DESK **/
+
+.modal-header{
+    background: #6497BC;
+}
+
+.modal-header h5{
+    color: white !important;
+}
+
+.modal-footer{
+    background: #6497BC;
+}
+
+
+/** Custom btn **/
+
+.btn-default {
+    background-color: #f4f4f4;
+    color: #444;
+    border-color: #ddd;
+}
+
+
+.datepicker{z-index:20 !important;}
+
+
+.delete{
+    border: 2px solid;
+    padding: 5px 10px;
+    display: inline-block;
+    color: #f63333;
+    background-color: white;
+    border-radius: 4px;
+}
+.delete:hover{
+	border: 2px solid #f63333;
+    background-color: #f63333;
+    color: #fff;
+}
+
+/** Card Temperatura **/
+
+
+.temp {
+    font-size: 2.6rem;
+    margin-bottom: 1rem
+}
+.header {
+    color: #dddddd
+}
+
+.col-4 {
+    padding: 0 0.2rem
+}
